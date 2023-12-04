@@ -1,5 +1,3 @@
-import re
-
 def main():
     part_one()
     part_two()
